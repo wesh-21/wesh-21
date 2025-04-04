@@ -1,10 +1,10 @@
 # Hi there, I'm Miguel 👋
 
-## About Me ✨
+## About Me
 
 I'm pursuing an MSc in Cybersecurity and Distributed Systems at IST (Instituto Superior Técnico). I'm passionate about building secure, scalable distributed systems and exploring blockchain technologies.
 
-- 🌱 Currently pursuing more knowledge about DApps development and blockchain programming
+- 🌐 Currently pursuing more knowledge about DApps development and blockchain programming
 - 📫 How to reach me: miguel.bibi@tecnico.ulisboa.pt
 
 ## Tech Stack 🛠️
@@ -21,7 +21,7 @@ I'm pursuing an MSc in Cybersecurity and Distributed Systems at IST (Instituto S
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
 </p>
 
-## My Taste 🔐
+## My Taste 🥘
 
 - **Distributed Systems**: Architecture design, scalable solutions, consensus algorithms
 - **Blockchain Development**: Smart contracts, DApps, Solidity programming
@@ -43,22 +43,11 @@ I'm pursuing an MSc in Cybersecurity and Distributed Systems at IST (Instituto S
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="your-username" />
 </p>
 
-## Featured Projects 🚀
+## Featured Public Projects 🚀
 
-<a href="https://github.com/your-username/project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=radical" />
+<a href="https://github.com/wesh-21/eleanor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wesh-21&repo=eleanor&theme=radical" />
 </a>
-<a href="https://github.com/your-username/project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=radical" />
-</a>
-
-## Recent Activity ⚡
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/your-username/your-repo/pull/123) in [your-username/your-repo](https://github.com/your-username/your-repo)
-2. 💪 Opened PR [#456](https://github.com/your-username/your-repo/pull/456) in [your-username/your-repo](https://github.com/your-username/your-repo)
-3. ❗️ Closed issue [#789](https://github.com/your-username/your-repo/issues/789) in [your-username/your-repo](https://github.com/your-username/your-repo)
-<!--END_SECTION:activity-->
 
 ---
 
