@@ -32,15 +32,15 @@ I'm pursuing an MSc in Cybersecurity and Distributed Systems at IST (Instituto S
 ## My GitHub Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="your-username" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wesh-21&show_icons=true&theme=radical" alt="wesh-21" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="your-username" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesh-21&theme=radical" alt="wesh-21" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="your-username" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesh-21&layout=compact&theme=radical" alt="wesh-21" />
 </p>
 
 ## Featured Public Projects 🚀
@@ -52,5 +52,5 @@ I'm pursuing an MSc in Cybersecurity and Distributed Systems at IST (Instituto S
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=wesh-21&color=blueviolet" alt="Profile views"/>
 </p>
