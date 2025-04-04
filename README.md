@@ -1,19 +1,11 @@
 # Hi there, I'm Miguel 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter?label=Follow&style=social)](https://twitter.com/your-twitter)
-[![Linkedin: yourname](https://img.shields.io/badge/-your%20name-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/your-linkedin/)
-
 ## About Me ✨
 
-I'm pursuing an MSc in Cybersecurity and Distributed Systems at IST. I'm passionate about building secure, scalable distributed systems and exploring blockchain technologies.
+I'm pursuing an MSc in Cybersecurity and Distributed Systems at IST (Instituto Superior Técnico). I'm passionate about building secure, scalable distributed systems and exploring blockchain technologies.
 
-- 🔭 I'm currently working on blockchain and decentralized applications
-- 🌱 I'm currently learning more about DApps development and blockchain programming
-- 👯 I'm looking to collaborate on open-source distributed systems projects
-- 💬 Ask me about cybersecurity, distributed systems, or blockchain development
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: [Interesting Fact About You]
+- 🌱 Currently pursuing more knowledge about DApps development and blockchain programming
+- 📫 How to reach me: miguel.bibi@tecnico.ulisboa.pt
 
 ## Tech Stack 🛠️
 
@@ -29,7 +21,7 @@ I'm pursuing an MSc in Cybersecurity and Distributed Systems at IST. I'm passion
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
 </p>
 
-## My Expertise 🔐
+## My Taste 🔐
 
 - **Distributed Systems**: Architecture design, scalable solutions, consensus algorithms
 - **Blockchain Development**: Smart contracts, DApps, Solidity programming
