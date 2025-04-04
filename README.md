@@ -45,9 +45,7 @@ I'm pursuing an MSc in Cybersecurity and Distributed Systems at IST (Instituto S
 
 ## Featured Public Projects 🚀
 
-<a href="https://github.com/wesh-21/eleanor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wesh-21&repo=eleanor&theme=radical" />
-</a>
+### [Eleanor](https://github.com/wesh-21/eleanor)
 
 ---
 
