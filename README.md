@@ -45,10 +45,10 @@ I'm pursuing an MSc in Cybersecurity and Distributed Systems at IST (Instituto S
 
 ## Featured Public Projects 🚀
 
+### [DepCoin](https://github.com/wesh-21/DepCoin)
 ### [Eleanor](https://github.com/wesh-21/eleanor)
 
 ---
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wesh-21&color=blueviolet" alt="Profile views"/>
 </p>
