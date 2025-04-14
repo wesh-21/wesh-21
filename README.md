@@ -47,6 +47,7 @@ I'm pursuing an MSc in Cybersecurity and Distributed Systems at IST (Instituto S
 
 ### [DepCoin](https://github.com/wesh-21/DepCoin)
 ### [Eleanor](https://github.com/wesh-21/eleanor)
+### [League Performance Tracker](https://github.com/wesh-21/league-performance-tracker)
 
 ---
 <p align="center">
